@@ -1,17 +1,19 @@
-##                                                 Hola, soy Cesar Sanchez
-                           Estudiante de Ingeniería en Computación en el UTEG (VII semestre).
-             Construyo lo que no existe y hago que funcione (casi siempre). Ahora mismo, Web Scrapping.
-<!--
-**aYzHo999/aYzHo999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Hola, soy Cesar Sanchez
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estudiante de Ingeniería en Computación en el UTEG (VII semestre).
+Construyo lo que no existe y hago que funcione (casi siempre). Ahora mismo, Web Scraping.
+
+<br>
+
+<a href="https://github.com/ay2h0999">
+  <img src="https://img.shields.io/badge/GitHub-ay2h0999-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="https://ko-fi.com/TU_USUARIO_DE_KOFI">
+  <img src="https://img.shields.io/badge/Ko--fi-Apoyar-FF5E5B?style=flat-square&logo=ko-fi&logoColor=white" alt="Ko-fi">
+</a>
+
+<hr style="border: 0; border-top: 1px solid #30363d; margin: 20px 0;">
+
+</div>
