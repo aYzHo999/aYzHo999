@@ -3,7 +3,6 @@
 # Hola, soy Cesar Sanchez
 
 Estudiante de Ingeniería en Computación en el UTEG (VII semestre).
-
 Construyo lo que no existe y hago que funcione (casi siempre). Ahora mismo, Web Scraping.
 
 <br>
