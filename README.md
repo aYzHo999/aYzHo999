@@ -1,4 +1,5 @@
-## Estudiante de Ingeniería en Computación en el UTEG (VII semestre). Construyo lo que no existe y hago que funcione (casi siempre). Ahora mismo, Web Scrapping.
+## Hola, soy Cesar Sanchez
+Estudiante de Ingeniería en Computación en el UTEG (VII semestre). Construyo lo que no existe y hago que funcione (casi siempre). Ahora mismo, Web Scrapping.
 <!--
 **aYzHo999/aYzHo999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
