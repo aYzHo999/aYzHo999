@@ -7,7 +7,7 @@ Construyo lo que no existe y hago que funcione (casi siempre). Ahora mismo, Web 
 
 <br>
 
-<a href="https://github.com/ay2h0999">
+<a href="https://github.com/aYzHo999">
   <img src="https://img.shields.io/badge/GitHub-ay2h0999-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
 </a>
 <a href="https://ko-fi.com/TU_USUARIO_DE_KOFI">
